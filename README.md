@@ -1,1 +1,1 @@
-Solução dos exercícios propostos na Disciplina de Estruturas de Dados
+Solução dos exercícios propostos na Disciplina: Estruturas de Dados
